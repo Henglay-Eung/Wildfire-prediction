@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+tensorflow
+geopandas
+shapely
+h5netcdf
+xarray
+from
